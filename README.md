@@ -16,7 +16,7 @@ Encontro de pessoas que querem aprender [Rust][rust].
 
 - 29 de Agosto de 2022
   - 16:00 [nesta sala de Google Meet][meetlink]
-  - agenda (TBD)
+  - [agenda](2022-08-29.md)
 
 ## Discussões / comunidade
 
