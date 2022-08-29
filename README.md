@@ -4,7 +4,7 @@ Encontro de pessoas que querem aprender [Rust][rust].
 
 [rust]: https://www.rust-lang.org/
 [liveshare]: https://visualstudio.microsoft.com/services/live-share/
-[meetlink]: https://meet.google.com/yvn-wssr-rth
+[meetlink]: meet.google.com/zvx-nsvu-vji
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/deed.pt_BR
 [codindojowikipedia]: https://pt.wikipedia.org/wiki/Coding_Dojo
 
@@ -14,9 +14,9 @@ Encontro de pessoas que querem aprender [Rust][rust].
 
 ## Próximo encontro:
 
-- 29 de Agosto de 2022
-  - 16:00 [nesta sala de Google Meet][meetlink]
-  - [agenda](2022-08-29.md)
+- 12 de Setembro de 2022
+  - 16:30 [nesta sala de Google Meet][meetlink]
+  - agenda TBD
 
 ## Discussões / comunidade
 
@@ -51,4 +51,4 @@ ext install MS-vsliveshare.vsliveshare
 
 ## Edições passadas:
 
-- Insira link aqui
+- [29 de Agosto de 2022](2022-08-29.md)
