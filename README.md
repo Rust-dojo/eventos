@@ -9,6 +9,7 @@ Encontro de pessoas que querem aprender [Rust][rust].
 [codindojowikipedia]: https://pt.wikipedia.org/wiki/Coding_Dojo
 [mailinglist]: https://groups.io/g/rust-dojo
 [vscode]: https://code.visualstudio.com/
+[luizalabs]: https://luizalabs.com
 
 ## Próximo encontro:
 
@@ -59,6 +60,20 @@ CTRL + P
 ```
 ext install MS-vsliveshare.vsliveshare
 ```
+
+## Agradecimentos
+
+Nossos mais sinceros agradecimentos às empresas abaixo, que gentilmente cederam tempo 
+de alguns funcionários para a participação em atividades de crescimento técnico,
+desenvolvimento de código ético/open-source e fomento de comunidades brasileiras de pessoas 
+desenvolvedoras:
+
+- [LuizaLabs][luizalabs]
+
+**nota:** o Rust dojo é uma iniciativa independente, nenhum texto deste repositório de git deve
+ser entendido como uma posição oficial ou endosso de nenhuma das empresas supracitadas. Se você é
+um executivo ou gerente de desenvolvedores que gostaria de liberar seus funcionários para participar
+dos nossos encontros, entre em contato para listarmos sua empresa nesta lista! :)
 
 ## Licença
 
