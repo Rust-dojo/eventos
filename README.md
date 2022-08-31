@@ -4,27 +4,56 @@ Encontro de pessoas que querem aprender [Rust][rust].
 
 [rust]: https://www.rust-lang.org/
 [liveshare]: https://visualstudio.microsoft.com/services/live-share/
-[meetlink]: meet.google.com/zvx-nsvu-vji
+[meetlink]: https://meet.google.com/zvx-nsvu-vji
 [cc0]: https://creativecommons.org/publicdomain/zero/1.0/deed.pt_BR
 [codindojowikipedia]: https://pt.wikipedia.org/wiki/Coding_Dojo
-
-## Licença
-
-<acronym title="A definir (To be Done)">TBD</acronym> (sugestão: [CC0][cc0])
+[mailinglist]: https://groups.io/g/rust-dojo
+[vscode]: https://code.visualstudio.com/
+[luizalabs]: https://luizalabs.com
 
 ## Próximo encontro:
 
 - 12 de Setembro de 2022
   - 16:30 [nesta sala de Google Meet][meetlink]
-  - agenda TBD
+  - agenda: a definir
 
-## Discussões / comunidade
+## Edições passadas:
 
-TBD (criar uma mailing list publica em groups.io)
+- [29 de Agosto de 2022](2022-08-29.md)
 
-## Setup
+## Comunidade
 
-- VS Code + [Live Share][liveshare]
+Para participar das discussões entre os encontros, inscreva-se na [lista de emails rust-dojo][mailinglist].
+
+## Regras
+
+### Regras Gerais
+
+- mantenha o respeito
+- pessoas de qualquer lugar e nível técnico são bem vindas
+  - Português e Inglês são as línguas que usamos, mas fazendo-se entender vale tudo
+- os encontros são gravados (evite assuntos confidenciais)
+- todo código é publicado no github ao fim da sessão (evite colar código proprietário)
+  - se você não concorda em devolver suas contribuições ao domínio público (ou não quer,
+ou não pode), este grupo **não é para você**
+
+### Dinâmica do Dojo
+
+- rodízio de duplas no comando do teclado
+- 1 pilota e 1 copilota (os demais tentam não interromper a dupla)
+- 5 minutos por dupla
+- preferencialmente, faça TDD (Desenvolvimento Orientado a Testes; Test Driven Development),
+comece pelos testes.
+
+[Referência][codindojowikipedia]
+
+### Editor
+
+Todos temos nossos editores de preferência (exemplo: **Vim**), mas por enquanto, por questões
+práticas estamos adotando o [Visual Studio Code][vscode] com a extensão [Live Share][liveshare].
+Como o meio de muitos colaborarem online sobre o mesmo código.
+
+#### Instalação do Live Share
 
 CTRL + P
 
@@ -32,23 +61,41 @@ CTRL + P
 ext install MS-vsliveshare.vsliveshare
 ```
 
-## Regras (WIP / Rascunho)
+## Agradecimentos
 
-### Regras Gerais
+Nossos mais sinceros agradecimentos às empresas abaixo, que gentilmente cederam tempo 
+de alguns funcionários para a participação em atividades de crescimento técnico,
+desenvolvimento de código ético/open-source e fomento de comunidades brasileiras de pessoas 
+desenvolvedoras:
 
-- somente gente respeitosa
-- os encontros são gravados (evitem assuntos confidenciais)
-- todo código é publicado no github ao fim da sessão
-- pessoas de qualquer lugar e nível técnico são bem vindas
-  - Português e Inglês são as línguas que usamos, mas fazendo-se entender vale tudo
+- [LuizaLabs][luizalabs]
 
-### Dinâmica do Dojo
+**nota:** o Rust dojo é uma iniciativa independente, nenhum texto deste repositório de git deve
+ser entendido como uma posição oficial ou endosso de nenhuma das empresas supracitadas. Se você é
+um executivo ou gerente de desenvolvedores que gostaria de liberar seus funcionários para participar
+dos nossos encontros, entre em contato para listarmos sua empresa nesta lista! :)
 
-- TBD (rodizio de pessoas pilotando, o tempo e a dinamica destrinchamos melhor depois, algo tipo [o descrito na Wikipedia][codingdojowikipedia])
-  - (se der para ser <acronym title="Desenvolvimento Orientado a Testes (Test Driven Development)">TDD</acronym>, mais legal ainda)
+## Licença
 
----
+Todo o código original<sup>[1](#observação-não-somos-advogados)</a></sup>,
+produzido por participantes dos encontros é oferecido de voltas ao domínio público, via a
+dedicação [CC0][cc0]. É esperado dos participantes que aceitem esta regra como um prérrequisito
+para participar nos eventos.
 
-## Edições passadas:
+### Motivo
 
-- [29 de Agosto de 2022](2022-08-29.md)
+O fim primeiro destes encontros é o aprendizado em conjunto e o compartilhamento de conhecimento,
+não nos reunimos para produzir patentes ou algum tipo de segredo industrial passivel de proteção
+via copyright. Nos reunimos para compartilhar conhecimento, voluntariamente e segundo os valores
+da cultura livre.
+
+Em outras palavras, se alguma solução de exercício ou trecho de código for útil para você, 
+que ótimo!! Só copie e reuse, independente da finalidade, sem necessidade de créditos ou 
+licenciamento. ❤️❤️❤️
+
+#### Observação, não somos advogados
+
+Alguns arquivos deste repositório são automaticamente gerados à partir de modelos das
+ferramentas que usamos, exemplo: arquivos resultantes de um `cargo new` ou um `nix flakes init`. 
+Não sabemos o status legal, destes fontes.
+
