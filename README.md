@@ -78,7 +78,7 @@ dos nossos encontros, entre em contato para listarmos sua empresa nesta lista! :
 ## Licença
 
 Todo o código original<sup>[1](#observação-não-somos-advogados)</a></sup>,
-produzido por participantes dos encontros é oferecido de voltas ao domínio público, via a
+produzido por participantes dos encontros é oferecido de volta ao domínio público, via a
 dedicação [CC0][cc0]. É esperado dos participantes que aceitem esta regra como um prérrequisito
 para participar nos eventos.
 
