@@ -15,7 +15,7 @@ Encontro de pessoas que querem aprender [Rust][rust].
 
 - 12 de Setembro de 2022
   - 16:30 [nesta sala de Google Meet][meetlink]
-  - agenda: a definir
+  - [agenda](2022-09-12)
 
 ## Edições passadas:
 
@@ -47,13 +47,13 @@ comece pelos testes.
 
 [Referência][codindojowikipedia]
 
-### Editor
+## Editor
 
 Todos temos nossos editores de preferência (exemplo: **Vim**), mas por enquanto, por questões
 práticas estamos adotando o [Visual Studio Code][vscode] com a extensão [Live Share][liveshare].
 Como o meio de muitos colaborarem online sobre o mesmo código.
 
-#### Instalação do Live Share
+### Instalação do Live Share
 
 CTRL + P
 
