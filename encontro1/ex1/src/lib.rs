@@ -1,4 +1,4 @@
-pub fn sort<T>(input: Vec<T>) -> Vec<T> 
+pub fn sort<T>(input: Vec<T>) -> Vec<T>
 where T : Clone + Ord {
     let mut internal = input.clone();
     internal.sort();
