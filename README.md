@@ -12,6 +12,7 @@ Encontro de pessoas que querem aprender [Rust][rust].
 [luizalabs]: https://luizalabs.com
 [video1]: https://youtu.be/W-4N2hySi5E
 [video2]: https://youtu.be/SLj9dx-P_zs
+[contact]: https://github.com/Rust-dojo/eventos/issues
 
 ## Próximo encontro:
 
@@ -76,7 +77,7 @@ desenvolvedoras:
 **nota:** o Rust dojo é uma iniciativa independente, nenhum texto deste repositório de git deve
 ser entendido como uma posição oficial ou endosso de nenhuma das empresas supracitadas. Se você é
 um executivo ou gerente de desenvolvedores que gostaria de liberar seus funcionários para participar
-dos nossos encontros, entre em contato para listarmos sua empresa nesta lista! :)
+dos nossos encontros, [entre em contato][contact] para listarmos sua empresa nesta lista! :)
 
 ## Licença
 
