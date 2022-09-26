@@ -22,8 +22,8 @@ Encontro de pessoas que querem aprender [Rust][rust].
 
 ## Edições passadas:
 
-- [12 de Setembro de 2022](2022-09-12.md) ([vídeo][video1])
-- [29 de Agosto de 2022](2022-08-29.md) ([vídeo][video2])
+- [12 de Setembro de 2022](2022-09-12.md) ([vídeo][video2])
+- [29 de Agosto de 2022](2022-08-29.md) ([vídeo][video1])
 
 ## Comunidade
 
