@@ -10,20 +10,23 @@ Encontro de pessoas que querem aprender [Rust][rust].
 [mailinglist]: https://groups.io/g/rust-dojo
 [vscode]: https://code.visualstudio.com/
 [luizalabs]: https://luizalabs.com
+[canaltech]: https://canaltech.com.br
 [video1]: https://youtu.be/W-4N2hySi5E
 [video2]: https://youtu.be/SLj9dx-P_zs
+[video3]: https://youtu.be/bC6TuIWHjis
 [contact]: https://github.com/Rust-dojo/eventos/issues
 
 ## Próximo encontro:
 
-- 26 de Setembro de 2022
+- 10 de Outubro de 2022
   - 16:30 [nesta sala de Google Meet][meetlink]
-  - [agenda](2022-09-26.md) TBD
+  - [agenda](2022-10-10.md) TBD
 
 ## Edições passadas:
 
-- [12 de Setembro de 2022](2022-09-12.md) ([vídeo][video1])
-- [29 de Agosto de 2022](2022-08-29.md) ([vídeo][video2])
+- [26 de Setembro de 2022](2022-09-26.md) ([vídeo][video3])
+- [12 de Setembro de 2022](2022-09-12.md) ([vídeo][video2])
+- [29 de Agosto de 2022](2022-08-29.md) ([vídeo][video1])
 
 ## Comunidade
 
@@ -67,15 +70,16 @@ ext install MS-vsliveshare.vsliveshare
 
 ## Agradecimentos
 
-Nossos mais sinceros agradecimentos às empresas abaixo, que gentilmente cederam tempo 
+Nossos mais sinceros agradecimentos às empresas/times/projetos abaixo, que gentilmente cederam tempo 
 de alguns funcionários para a participação em atividades de crescimento técnico,
 desenvolvimento de código ético/open-source e fomento de comunidades brasileiras de pessoas 
 desenvolvedoras:
 
+- [Canaltech][canaltech]
 - [LuizaLabs][luizalabs]
 
 **nota:** o Rust dojo é uma iniciativa independente, nenhum texto deste repositório de git deve
-ser entendido como uma posição oficial ou endosso de nenhuma das empresas supracitadas. Se você é
+ser entendido como uma posição oficial ou endosso de nenhum dos grupos supracitados. Se você é
 um executivo ou gerente de desenvolvedores que gostaria de liberar seus funcionários para participar
 dos nossos encontros, [entre em contato][contact] para listarmos sua empresa nesta lista! :)
 
