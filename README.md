@@ -21,7 +21,7 @@ Encontro de pessoas que querem aprender [Rust][rust].
 
 - 24 de Outubro de 2022
   - 16:30 [nesta sala de Google Meet][meetlink]
-  - [agenda](2022-10-24.md) TBD
+  - [agenda](2022-10-24.md)
 
 ## Edições passadas:
 
