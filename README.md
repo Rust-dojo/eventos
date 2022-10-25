@@ -15,9 +15,7 @@ Encontro de pessoas que querem aprender [Rust][rust].
 [video2]: https://youtu.be/SLj9dx-P_zs
 [video3]: https://youtu.be/bC6TuIWHjis
 [video4]: https://youtu.be/oDDllu9ISYo
-<!--
-[video5]: https://youtu.be/YOUTUBE_ID
--->
+[video5]: https://youtu.be/mKt0jM3xlBs
 [contact]: https://github.com/Rust-dojo/eventos/issues
 
 ## Próximo encontro:
