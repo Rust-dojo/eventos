@@ -15,16 +15,19 @@ Encontro de pessoas que querem aprender [Rust][rust].
 [video2]: https://youtu.be/SLj9dx-P_zs
 [video3]: https://youtu.be/bC6TuIWHjis
 [video4]: https://youtu.be/oDDllu9ISYo
+[video5]: https://youtu.be/mKt0jM3xlBs
 [contact]: https://github.com/Rust-dojo/eventos/issues
 
 ## Próximo encontro:
 
-- 24 de Outubro de 2022
+- 07 de Novembro de 2022
   - 16:30 [nesta sala de Google Meet][meetlink]
-  - [agenda](2022-10-24.md)
+  - [agenda](2022-11-07.md)
+  - [checklist](https://github.com/Rust-dojo/eventos/issues/13)
 
 ## Edições passadas:
 
+- [24 de Outubro de 2022](2022-10-24.md) ([vídeo][video5])
 - [10 de Outubro de 2022](2022-10-10.md) ([vídeo][video4])
 - [26 de Setembro de 2022](2022-09-26.md) ([vídeo][video3])
 - [12 de Setembro de 2022](2022-09-12.md) ([vídeo][video2])
