@@ -25,7 +25,7 @@ Encontro de pessoas que querem aprender [Rust][rust].
 - 09 de Janeiro de 2023
   - 16:30 [nesta sala de Google Meet][meetlink]
   - [agenda](2023-01-09.md)
-  - [checklist](https://github.com/Rust-dojo/eventos/issues/16)
+  - [checklist](https://github.com/Rust-dojo/eventos/issues/18)
 
 ## Edições passadas:
 
